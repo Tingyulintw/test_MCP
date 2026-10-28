@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.Tingyulintw/hello-mcp-server",
+  "description": "A tiny demo MCP server: roll dice, count words, and generate release-notes skeletons.",
+  "status": "active",
+  "repository": { "url": "https://github.com/Tingyulintw/hello-mcp-server", "source": "github" },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registry_type": "npm",
+      "identifier": "@tingyulintw/hello-mcp-server",
+      "version": "0.1.0",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}

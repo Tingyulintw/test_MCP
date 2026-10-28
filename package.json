@@ -1,0 +1,10 @@
+{
+  "name": "@tingyulintw/hello-mcp-server",
+  "version": "0.1.0",
+  "description": "A tiny demo MCP server with dice, word-count and release-notes tools.",
+  "main": "index.js",
+  "bin": { "hello-mcp-server": "index.js" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/Tingyulintw/hello-mcp-server.git" },
+  "mcpName": "io.github.Tingyulintw/hello-mcp-server"
+}
